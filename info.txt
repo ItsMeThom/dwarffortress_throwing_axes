@@ -1,0 +1,16 @@
+[ID:throwingaxe_weapon_tum]
+[NUMERIC_VERSION:104]
+[DISPLAYED_VERSION:1.4]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:104]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.4]
+[AUTHOR:Comrade Tum]
+[NAME:Throwing Axes]
+[DESCRIPTION:Adds metal throwing axes that can be cast at the weaponsmiths workshop]
+
+[STEAM_TITLE:Throwing Axes]
+[STEAM_TAG:mod]
+[STEAM_TAG:graphics]
+[STEAM_TAG:item]
+[STEAM_TAG:weapon]
+
+[STEAM_FILE_ID:2923857017]
