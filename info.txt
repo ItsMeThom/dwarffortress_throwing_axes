@@ -12,5 +12,3 @@
 [STEAM_TAG:graphics]
 [STEAM_TAG:item]
 [STEAM_TAG:weapon]
-
-[STEAM_FILE_ID:2923857017]
